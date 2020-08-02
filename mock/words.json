@@ -1,0 +1,28 @@
+{
+	"errno": 0,
+	"data": [{
+		"id": "17903",
+		"word": "patience",
+		"pronounce": " [ˈpeɪʃns]",
+		"description": "耐心，耐性;",
+		"wordtype": null,
+		"userId": "14",
+		"dateLine": "2018-09-26 21:46:17"
+	}, {
+		"id": "17902",
+		"word": "ideal",
+		"pronounce": " [aɪˈdi:əl] ",
+		"description": "理想;典范",
+		"wordtype": null,
+		"userId": "14",
+		"dateLine": "2018-09-26 21:44:53"
+	}, {
+		"id": "17901",
+		"word": "tenacity",
+		"pronounce": "[tə'næsətɪ] ",
+		"description": "不屈不挠",
+		"wordtype": null,
+		"userId": "14",
+		"dateLine": "2018-09-26 21:43:25"
+	}]
+}
